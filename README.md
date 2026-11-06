@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Armaan Kazi 👋</h1>
+<h1 align="center">Hi there, I'm Mohammed Armaan Kazi 👋</h1>
 
 <h3 align="center">Cloud Infrastructure & DevSecOps Engineer</h3>
 
