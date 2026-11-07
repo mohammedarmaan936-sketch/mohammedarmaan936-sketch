@@ -13,9 +13,6 @@
   <a href="https://dev.to/mohammed_armaan_51c01b74e">
     <img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="DEV.to" />
   </a>
-  <a href="https://faun.dev/@mohammedarmaan936">
-    <img src="https://img.shields.io/badge/FAUN.dev-1E40AF?style=for-the-badge&logo=readthedocs&logoColor=white" alt="FAUN.dev" />
-  </a>
 </p>
 
 ---
@@ -36,7 +33,7 @@ An end-to-end, three-repository cloud & security engineering ecosystem covering 
 I actively audit documentation schemas, Kubernetes Custom Resource Definitions (CRDs), and operator configurations across upstream CNCF repositories:
 
 - ![Merged](https://img.shields.io/badge/MERGED-8957e5?style=flat-square&logo=github&logoColor=white) **[Argo CD (`argoproj/argo-cd#30792`)](https://github.com/argoproj/argo-cd/pull/30792):** Fixed invalid YAML parsing syntax in ApplicationSet Plugin Generator manifests by resolving unescaped double quotes inside Go template strings.
-- ![In Review](https://img.shields.io/badge/OPEN_%2F_REVIEWED-2ea043?style=flat-square&logo=github&logoColor=white) **[Prometheus Operator (`prometheus-operator/prometheus-operator#8950`)](https://github.com/prometheus-operator/prometheus-operator/pull/8950):** Corrected `PodMonitor` CRD schema (`endpoints` $\rightarrow$ `podMetricsEndpoints`) in exporter guides and updated `--secret-label-selector` / `--secret-field-selector` API list-watch troubleshooting documentation.
+- ![In Review](https://img.shields.io/badge/OPEN_%2F_REVIEWED-2ea043?style=flat-square&logo=github&logoColor=white) **[Prometheus Operator (`prometheus-operator/prometheus-operator#8950`)](https://github.com/prometheus-operator/prometheus-operator/pull/8950):** Corrected `PodMonitor` CRD schema (`endpoints` → `podMetricsEndpoints`) in exporter guides and updated `--secret-label-selector` / `--secret-field-selector` API list-watch troubleshooting documentation.
 
 ---
 
