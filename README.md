@@ -42,7 +42,7 @@ I actively audit documentation schemas, Kubernetes Custom Resource Definitions (
 
 ### ✍️ Technical Writing & Publications
 
-- 📄 **[How I Built a Shift-Left DevSecOps Pipeline for FastAPI & Kubernetes (And Caught 3 Real High-Severity CVEs with Trivy)](https://dev.to/mohammed_armaan_51c01b74e/how-i-built-a-shift-left-devsecops-pipeline-for-fastapi-kubernetes-and-caught-3-real-g8k)** — *Published on DEV.to, Medium & FAUN.dev*
+- 📄 **[How I Built a Shift-Left DevSecOps Pipeline for FastAPI & Kubernetes (And Caught 3 Real High-Severity CVEs with Trivy)](https://dev.to/mohammed_armaan_51c01b74e/how-i-built-a-shift-left-devsecops-pipeline-for-fastapi-kubernetes-and-caught-3-real-g8k)** — *Published on DEV.to*
 
 ---
 
