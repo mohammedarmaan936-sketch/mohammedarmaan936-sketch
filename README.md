@@ -39,7 +39,9 @@ I actively audit documentation schemas, Kubernetes Custom Resource Definitions (
 
 ### ✍️ Technical Writing & Publications
 
-- 📄 **[How I Built a Shift-Left DevSecOps Pipeline for FastAPI & Kubernetes (And Caught 3 Real High-Severity CVEs with Trivy)](https://dev.to/mohammed_armaan_51c01b74e/how-i-built-a-shift-left-devsecops-pipeline-for-fastapi-kubernetes-and-caught-3-real-g8k)** — *Published on DEV.to*
+- 📄 **[How I Cut AWS EKS Infrastructure Costs by 38.1% with Terraform, Spot Nodes, and an Automated Python FinOps Gate (Plus Argo CD GitOps)](https://builder.aws.com/content/3LtoKaWNWXYLGeCJSoIJoGIM2gf/how-i-cut-aws-eks-infrastructure-costs-by-381percent-with-terraform-spot-nodes-and-an-automated-python-finops-gate-plus-argo-cd-gitops)** — *Published on AWS Builder Center & [DEV.to](https://dev.to/mohammed_armaan_51c01b74e/how-i-cut-aws-eks-infrastructure-costs-by-381-with-terraform-spot-nodes-and-an-automated-python-jbo)*
+- 📄 **[Automating CIS Level 1 Security Hardening & Drift Compliance Across AWS EC2 Ubuntu Fleets with Ansible and GitHub Actions](https://builder.aws.com/content/3M543NThOAJPThMorvMBi43ekOH/automating-cis-level-1-security-hardening-and-drift-compliance-across-aws-ec2-ubuntu-fleets-with-ansible-and-github-actions)** — *Published on AWS Builder Center & [DEV.to](https://dev.to/mohammed_armaan_51c01b74e/automating-cis-level-1-security-hardening-drift-compliance-across-aws-ec2-ubuntu-fleets-4ce)*
+- 📄 **[How I Built a Shift-Left DevSecOps Pipeline for FastAPI & Kubernetes (And Caught 3 Real High-Severity CVEs with Trivy)](https://dev.to/mohammed_armaan_51c01b74e/how-i-built-a-shift-left-devsecops-pipeline-for-fastapi-kubernetes-and-caught-3-real-g8k)** — *Published on DEV.to, Medium & FAUN.dev*
 
 ---
 
